@@ -1,5 +1,8 @@
 package com.tcs;
 
+import org.apache.spark.SparkContext;
+import scala.collection.Seq;
+
 public class DataIngestionApp{
 	
 		
@@ -7,6 +10,7 @@ public class DataIngestionApp{
 
         System.out.println("Data ingestion is started..");
         System.out.println("Data ingestion is in progress..");
+
         System.out.println("Data ingestion is completed..");
 			
 	}
