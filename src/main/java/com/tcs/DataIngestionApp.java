@@ -5,6 +5,7 @@ public class DataIngestionApp{
 		
 	public static void main(String args[]){
 		
+			System.out.println("Data ingestion is started..");
 			System.out.println("Data ingestion is completed..");
 			
 	}
